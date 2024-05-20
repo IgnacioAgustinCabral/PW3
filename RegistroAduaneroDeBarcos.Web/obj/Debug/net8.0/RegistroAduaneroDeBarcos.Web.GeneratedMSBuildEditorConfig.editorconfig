@@ -1,0 +1,47 @@
+is_global = true
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
+build_property.RootNamespace = RegistroAduaneroDeBarcos.Web
+build_property.RootNamespace = RegistroAduaneroDeBarcos.Web
+build_property.ProjectDir = C:\Users\ignac\OneDrive\Desktop\PRIMER PARCIAL- IGNACIO AGUSTIN CABRAL-40389937\RegistroAduaneroDeBarcos.Web\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
+build_property.RazorLangVersion = 8.0
+build_property.SupportLocalizedComponentNames = 
+build_property.GenerateRazorMetadataSourceChecksumAttributes = 
+build_property.MSBuildProjectDirectory = C:\Users\ignac\OneDrive\Desktop\PRIMER PARCIAL- IGNACIO AGUSTIN CABRAL-40389937\RegistroAduaneroDeBarcos.Web
+build_property._RazorSourceGeneratorDebug = 
+
+[C:/Users/ignac/OneDrive/Desktop/PRIMER PARCIAL- IGNACIO AGUSTIN CABRAL-40389937/RegistroAduaneroDeBarcos.Web/Views/Barcos/ListarBarcos.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFyY29zXExpc3RhckJhcmNvcy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ignac/OneDrive/Desktop/PRIMER PARCIAL- IGNACIO AGUSTIN CABRAL-40389937/RegistroAduaneroDeBarcos.Web/Views/Barcos/RegistrarBarco.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQmFyY29zXFJlZ2lzdHJhckJhcmNvLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ignac/OneDrive/Desktop/PRIMER PARCIAL- IGNACIO AGUSTIN CABRAL-40389937/RegistroAduaneroDeBarcos.Web/Views/Inicio/Bienvenida.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSW5pY2lvXEJpZW52ZW5pZGEuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ignac/OneDrive/Desktop/PRIMER PARCIAL- IGNACIO AGUSTIN CABRAL-40389937/RegistroAduaneroDeBarcos.Web/Views/Shared/_ValidationScriptsPartial.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ignac/OneDrive/Desktop/PRIMER PARCIAL- IGNACIO AGUSTIN CABRAL-40389937/RegistroAduaneroDeBarcos.Web/Views/_ViewImports.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ignac/OneDrive/Desktop/PRIMER PARCIAL- IGNACIO AGUSTIN CABRAL-40389937/RegistroAduaneroDeBarcos.Web/Views/_ViewStart.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/ignac/OneDrive/Desktop/PRIMER PARCIAL- IGNACIO AGUSTIN CABRAL-40389937/RegistroAduaneroDeBarcos.Web/Views/Shared/_AduanaLayout.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9BZHVhbmFMYXlvdXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = b-l48r85erwg

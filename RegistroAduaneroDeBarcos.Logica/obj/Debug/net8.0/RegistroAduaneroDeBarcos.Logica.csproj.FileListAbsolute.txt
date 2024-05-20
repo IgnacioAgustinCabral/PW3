@@ -1,0 +1,15 @@
+C:\Users\ignac\OneDrive\Desktop\PRIMER PARCIAL- IGNACIO AGUSTIN CABRAL-40389937\RegistroAduaneroDeBarcos.Logica\bin\Debug\net8.0\RegistroAduaneroDeBarcos.Logica.deps.json
+C:\Users\ignac\OneDrive\Desktop\PRIMER PARCIAL- IGNACIO AGUSTIN CABRAL-40389937\RegistroAduaneroDeBarcos.Logica\bin\Debug\net8.0\RegistroAduaneroDeBarcos.Logica.dll
+C:\Users\ignac\OneDrive\Desktop\PRIMER PARCIAL- IGNACIO AGUSTIN CABRAL-40389937\RegistroAduaneroDeBarcos.Logica\bin\Debug\net8.0\RegistroAduaneroDeBarcos.Logica.pdb
+C:\Users\ignac\OneDrive\Desktop\PRIMER PARCIAL- IGNACIO AGUSTIN CABRAL-40389937\RegistroAduaneroDeBarcos.Logica\bin\Debug\net8.0\RegistroAduaneroDeBarcos.Entidades.dll
+C:\Users\ignac\OneDrive\Desktop\PRIMER PARCIAL- IGNACIO AGUSTIN CABRAL-40389937\RegistroAduaneroDeBarcos.Logica\bin\Debug\net8.0\RegistroAduaneroDeBarcos.Entidades.pdb
+C:\Users\ignac\OneDrive\Desktop\PRIMER PARCIAL- IGNACIO AGUSTIN CABRAL-40389937\RegistroAduaneroDeBarcos.Logica\obj\Debug\net8.0\RegistroAduaneroDeBarcos.Logica.csproj.AssemblyReference.cache
+C:\Users\ignac\OneDrive\Desktop\PRIMER PARCIAL- IGNACIO AGUSTIN CABRAL-40389937\RegistroAduaneroDeBarcos.Logica\obj\Debug\net8.0\RegistroAduaneroDeBarcos.Logica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignac\OneDrive\Desktop\PRIMER PARCIAL- IGNACIO AGUSTIN CABRAL-40389937\RegistroAduaneroDeBarcos.Logica\obj\Debug\net8.0\RegistroAduaneroDeBarcos.Logica.AssemblyInfoInputs.cache
+C:\Users\ignac\OneDrive\Desktop\PRIMER PARCIAL- IGNACIO AGUSTIN CABRAL-40389937\RegistroAduaneroDeBarcos.Logica\obj\Debug\net8.0\RegistroAduaneroDeBarcos.Logica.AssemblyInfo.cs
+C:\Users\ignac\OneDrive\Desktop\PRIMER PARCIAL- IGNACIO AGUSTIN CABRAL-40389937\RegistroAduaneroDeBarcos.Logica\obj\Debug\net8.0\RegistroAduaneroDeBarcos.Logica.csproj.CoreCompileInputs.cache
+C:\Users\ignac\OneDrive\Desktop\PRIMER PARCIAL- IGNACIO AGUSTIN CABRAL-40389937\RegistroAduaneroDeBarcos.Logica\obj\Debug\net8.0\Registro.1DC21D51.Up2Date
+C:\Users\ignac\OneDrive\Desktop\PRIMER PARCIAL- IGNACIO AGUSTIN CABRAL-40389937\RegistroAduaneroDeBarcos.Logica\obj\Debug\net8.0\RegistroAduaneroDeBarcos.Logica.dll
+C:\Users\ignac\OneDrive\Desktop\PRIMER PARCIAL- IGNACIO AGUSTIN CABRAL-40389937\RegistroAduaneroDeBarcos.Logica\obj\Debug\net8.0\refint\RegistroAduaneroDeBarcos.Logica.dll
+C:\Users\ignac\OneDrive\Desktop\PRIMER PARCIAL- IGNACIO AGUSTIN CABRAL-40389937\RegistroAduaneroDeBarcos.Logica\obj\Debug\net8.0\RegistroAduaneroDeBarcos.Logica.pdb
+C:\Users\ignac\OneDrive\Desktop\PRIMER PARCIAL- IGNACIO AGUSTIN CABRAL-40389937\RegistroAduaneroDeBarcos.Logica\obj\Debug\net8.0\ref\RegistroAduaneroDeBarcos.Logica.dll

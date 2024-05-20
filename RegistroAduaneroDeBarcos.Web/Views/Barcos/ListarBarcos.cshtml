@@ -1,0 +1,30 @@
+﻿@model List<BarcoModel>
+<h2>Resultados de barcos registrados</h2>
+
+<div>
+    <a href="/Barcos/RegistrarBarco">Registrar Venta</a>
+</div>
+
+<table style="border: 1px solid black; border-collapse: collapse;">
+    <thead>
+        <tr>
+            <th style="border: 1px solid black; background-color: #c2d69b; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">#IdBarco</th>
+            <th style="border: 1px solid black; background-color: #c2d69b; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">Nombre</th>
+            <th style="border: 1px solid black; background-color: #c2d69b; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">Antiguedad</th>
+            <th style="border: 1px solid black; background-color: #c2d69b; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">Tripulación Máxima</th>
+            <th style="border: 1px solid black; background-color: #c2d69b; box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);">Tasa</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var venta in Model)
+        {
+            <tr>
+                <td style="border: 1px solid black;">@venta.IdBarco</td>
+                <td style="border: 1px solid black;">@venta.Nombre</td>
+                <td style="border: 1px solid black;">@venta.Antiguedad</td>
+                <td style="border: 1px solid black;">@venta.TripulacionMaxima</td>
+                <td style="border: 1px solid black;">$ @(venta.Tasa)</td>
+            </tr>
+        }
+    </tbody>
+</table>

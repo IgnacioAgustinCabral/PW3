@@ -1,0 +1,11 @@
+C:\Users\ignac\OneDrive\Desktop\PRIMER PARCIAL- IGNACIO AGUSTIN CABRAL-40389937\RegistroAduaneroDeBarcos.Entidades\bin\Debug\net8.0\RegistroAduaneroDeBarcos.Entidades.deps.json
+C:\Users\ignac\OneDrive\Desktop\PRIMER PARCIAL- IGNACIO AGUSTIN CABRAL-40389937\RegistroAduaneroDeBarcos.Entidades\bin\Debug\net8.0\RegistroAduaneroDeBarcos.Entidades.dll
+C:\Users\ignac\OneDrive\Desktop\PRIMER PARCIAL- IGNACIO AGUSTIN CABRAL-40389937\RegistroAduaneroDeBarcos.Entidades\bin\Debug\net8.0\RegistroAduaneroDeBarcos.Entidades.pdb
+C:\Users\ignac\OneDrive\Desktop\PRIMER PARCIAL- IGNACIO AGUSTIN CABRAL-40389937\RegistroAduaneroDeBarcos.Entidades\obj\Debug\net8.0\RegistroAduaneroDeBarcos.Entidades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ignac\OneDrive\Desktop\PRIMER PARCIAL- IGNACIO AGUSTIN CABRAL-40389937\RegistroAduaneroDeBarcos.Entidades\obj\Debug\net8.0\RegistroAduaneroDeBarcos.Entidades.AssemblyInfoInputs.cache
+C:\Users\ignac\OneDrive\Desktop\PRIMER PARCIAL- IGNACIO AGUSTIN CABRAL-40389937\RegistroAduaneroDeBarcos.Entidades\obj\Debug\net8.0\RegistroAduaneroDeBarcos.Entidades.AssemblyInfo.cs
+C:\Users\ignac\OneDrive\Desktop\PRIMER PARCIAL- IGNACIO AGUSTIN CABRAL-40389937\RegistroAduaneroDeBarcos.Entidades\obj\Debug\net8.0\RegistroAduaneroDeBarcos.Entidades.csproj.CoreCompileInputs.cache
+C:\Users\ignac\OneDrive\Desktop\PRIMER PARCIAL- IGNACIO AGUSTIN CABRAL-40389937\RegistroAduaneroDeBarcos.Entidades\obj\Debug\net8.0\RegistroAduaneroDeBarcos.Entidades.dll
+C:\Users\ignac\OneDrive\Desktop\PRIMER PARCIAL- IGNACIO AGUSTIN CABRAL-40389937\RegistroAduaneroDeBarcos.Entidades\obj\Debug\net8.0\refint\RegistroAduaneroDeBarcos.Entidades.dll
+C:\Users\ignac\OneDrive\Desktop\PRIMER PARCIAL- IGNACIO AGUSTIN CABRAL-40389937\RegistroAduaneroDeBarcos.Entidades\obj\Debug\net8.0\RegistroAduaneroDeBarcos.Entidades.pdb
+C:\Users\ignac\OneDrive\Desktop\PRIMER PARCIAL- IGNACIO AGUSTIN CABRAL-40389937\RegistroAduaneroDeBarcos.Entidades\obj\Debug\net8.0\ref\RegistroAduaneroDeBarcos.Entidades.dll

@@ -1,0 +1,27 @@
+﻿@model BarcoModel
+
+<form action="/Barcos/RegistrarBarco" method="post">
+    <div class="form-group">
+        @Html.LabelFor(model => model.Nombre)
+        @Html.TextBoxFor(model => model.Nombre, new { @class = "form-control", type = "text" })
+        @Html.ValidationMessageFor(model => model.Nombre, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.Antiguedad)
+        @Html.TextBoxFor(model => model.Antiguedad, new { @class = "form-control", type = "number" })
+        @Html.ValidationMessageFor(model => model.Antiguedad, "", new { @class = "text-danger" })
+    </div>
+
+    <div class="form-group">
+        @Html.LabelFor(model => model.TripulacionMaxima)
+        @Html.TextBoxFor(model => model.TripulacionMaxima, new { @class = "form-control", type = "number" })
+        @Html.ValidationMessageFor(model => model.TripulacionMaxima, "", new { @class = "text-danger" })
+    </div>
+
+    <button type="submit" class="btn btn-primary">Registrar Barco</button>
+</form>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}
